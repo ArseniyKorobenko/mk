@@ -1,5 +1,6 @@
 # You can paste this into your .zshrc or wrap in a script
 # TODO: add an option to cd into a makefile's directory before running
+# TODO: add wildcard support to search_parents (could be useful for other utils)
 
 # Find files with given names in all parent directories
 search_parents() {
